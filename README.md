@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Puskar Sarkar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<p align="center">
+  🏆 GitHub Trophies 🏆  
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Puskar-Sarkar&theme=onedark" />
+</p>
+
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Puskar-Sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="Puskar-Sarkar" /> </p>
@@ -49,3 +55,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puskar-sarkar&show_icons=true&locale=en" alt="puskar-sarkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puskar-sarkar&" alt="puskar-sarkar" /></p>
+
+
+![Snake animation](https://github.com/Puskar-Sarkar/Puskar-Sarkar/blob/output/github-contribution-grid-snake.svg)
