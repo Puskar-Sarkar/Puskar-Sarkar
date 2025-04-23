@@ -57,4 +57,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puskar-sarkar&" alt="puskar-sarkar" /></p>
 
 
+## 📈 Contribution Graph
+
 ![Snake animation](https://github.com/Puskar-Sarkar/Puskar-Sarkar/blob/output/github-contribution-grid-snake.svg)
+
