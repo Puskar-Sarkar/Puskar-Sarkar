@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/PuskarSarkar.png" alt="Your Image Badge" />
+<p>&nbsp;
+  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/PuskarSarkar.png" alt="Your Image Badge" />
 </p>
 <!--
 ## 📈 Contribution Graph
