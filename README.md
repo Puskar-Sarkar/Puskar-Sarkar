@@ -64,6 +64,11 @@ Here are some ideas to get you started:
     <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6884001" />
   </a>
 </p>
+
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/PuskarSarkar.png" alt="Your Image Badge" />
+</p>
 <!--
 ## 📈 Contribution Graph
 
