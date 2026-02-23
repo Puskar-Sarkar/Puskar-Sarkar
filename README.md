@@ -56,19 +56,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puskar-sarkar&show_icons=true&locale=en" alt="puskar-sarkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puskar-sarkar&" alt="puskar-sarkar" /></p>
-
-## 🛡️ TryHackMe
-
-<p align="center">
-  <a href="https://tryhackme.com/p/PuskarSarkar" target="_blank">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6884001" />
-  </a>
-</p>
-
-
-<p>&nbsp;
-  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/PuskarSarkar.png" alt="Your Image Badge" />
-</p>
+## 🛡️ TryHackMe <p align="center"> <a href="https://tryhackme.com/p/PuskarSarkar" target="_blank"> <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6884001" /> </a> </p> <p>&nbsp; <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/PuskarSarkar.png" alt="Your Image Badge" /> </p>
 <!--
 ## 📈 Contribution Graph
 
