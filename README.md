@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puskar-sarkar&" alt="puskar-sarkar" /></p>
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6884001" style='border:none;'></iframe>
-
+<p><img align="center" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6884001" /></p>
 
 <!--
 ## 📈 Contribution Graph
